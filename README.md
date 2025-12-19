@@ -35,4 +35,4 @@ This project helped me understand how prompt chaining can structure complex crea
 
  Author
 G.V.S.S Nitheesha
-Prompt Engineering Intern | Future Interns
+|Prompt Engineering Intern | Future Interns
